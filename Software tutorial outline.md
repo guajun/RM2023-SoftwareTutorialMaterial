@@ -37,7 +37,7 @@
     [C++ Tutorials](https://www.w3schools.com/cpp/default.asp)
 
     [中文C 教程](https://www.runoob.com/cprogramming/c-tutorial.html)
-    
+
     [中文C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 
 
@@ -154,6 +154,7 @@ Generate a project and able to compile
     + Frame structure
     + Baud rate
     + Bit Timing
+
 [CAN stuff bit](https://stackoverflow.com/questions/31880366/bit-stuffing-in-can-bus)
 + High refresh rate, thus require handling in the interrupts
 + Read from ESC feedback
