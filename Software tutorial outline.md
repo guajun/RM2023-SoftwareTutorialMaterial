@@ -15,9 +15,8 @@
     Try to understand the blackbox with some certain inputs to get the rules
 
 ## General resources
-+ CN
-[RoboMaster电控入门 | sasasatori](https://www.cnblogs.com/sasasatori/tag/RoboMaster%E7%94%B5%E6%8E%A7%E5%85%A5%E9%97%A8/)
-[]
+[RoboMaster电控入门 | sasasatori (CN)](https://www.cnblogs.com/sasasatori/tag/RoboMaster%E7%94%B5%E6%8E%A7%E5%85%A5%E9%97%A8/)
+
 ## Git
 + Environment setup
 + Command Line Interface
@@ -32,10 +31,13 @@
 
 ## C/C++ basics
 + Read from the ready-made online documents(for desktop programming)
+
     [C Tutorials](https://www.w3schools.com/c/index.php)
+
     [C++ Tutorials](https://www.w3schools.com/cpp/default.asp)
 
     [中文C 教程](https://www.runoob.com/cprogramming/c-tutorial.html)
+    
     [中文C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 
 
